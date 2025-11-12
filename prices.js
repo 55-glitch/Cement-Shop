@@ -157,8 +157,8 @@ const PriceManager = {
         ];
         // Backward compatibility with earlier suggested names
         const aliasMap = {
-            'ultratech': ['ultra.webp'],
-            'coromandel': ['coromandel.webp'],
+            'ultratech': ['Ultra.webp'],
+            'coromandel': ['Coromandel.webp'],
             'priya': ['Priya.webp'],
             'maha': ['Maha.webp'],
             'ramco': ['RAmco.webp']
